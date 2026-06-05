@@ -1,4 +1,4 @@
-<img width="1384" height="774" alt="スクリーンショット 2026-06-05 093124" src="https://github.com/user-attachments/assets/1d47bb43-91d9-4768-9269-083aeaab555b" /># タイトル
+# タイトル
 　Speed Delivery
 # 概要
 　制限時間内にどれだけ配達できるか
